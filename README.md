@@ -3,4 +3,4 @@ Source code for paper 'Boosting connectome classification via combination of geo
 
 Repository moved to https://github.com/neuro-ml/BoostingConnectomeClassificationPRNI
 
-https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ztQNTloAAAAJ&citation_for_view=ztQNTloAAAAJ:kzcrU_BdoSEC
+Link to paper: http://ieeexplore.ieee.org/abstract/document/7552353/
